@@ -11,6 +11,12 @@ R package for sentiment text analysis
 * Supported languge: English and Spanish
 
 Installation
+---
+with *devtools* for window's users  
+* require(devtools)
+* install_github('sentiment140','okugami79')
+
+
 --- 
 with *Rstudio* 
 * Project menu -> New Project -> Version Control -> **Git**
